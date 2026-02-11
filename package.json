@@ -1,0 +1,25 @@
+{
+  "name": "unit-tests-with-jest-jamiejy927",
+  "version": "1.0.0",
+  "description": "This assignment teaches you how to write simple unit tests and run them locally and on GitHub Actions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-CICCC/unit-tests-with-jest-jamiejy927.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Cornerstone-CICCC/unit-tests-with-jest-jamiejy927/issues"
+  },
+  "homepage": "https://github.com/Cornerstone-CICCC/unit-tests-with-jest-jamiejy927#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.2.0"
+  }
+}
